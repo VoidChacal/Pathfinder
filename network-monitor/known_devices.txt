@@ -1,0 +1,23 @@
+14:A0:F8:29:72:69|Rede
+FC:9D:05:73:A1:D8|Akarius
+24:05:0F:FF:85:1F|Andre_Monitor
+CC:6E:A4:B7:A6:24|TV
+fa:33:19:A5:CA:A6|Cataclysm
+2E:18:F7:1E:FF:6D|Cataclysm
+9C:6B:00:5F:0F:D8|Bia
+76:01:07:DF:E5:59|Foguinho(Bia)
+46:14:47:AA:81:B1|Foguinho(Bia)
+7C:01:3E:CF:33:E9|Lobinha(TV Roku Bia)
+BC:FC:E7:8A:66:64|Gabriel
+D6:54:9F:5D:2A:65|Gabriel(A15)
+46:18:F4:70:4A:7A|Gabriel(A15)
+5C:96:56:72:D2:B3|PS4
+EA:3A:EB:63:E6:FD|Val
+F8:16:0C:7C:9A:D0|Camera
+E0:06:E6:DF:4D:2F|Monitor Camera
+96:32:CF:54:0A:AC|Celular Reserva
+90:B6:22:93:F7:D3|Andre
+2E:77:E0:25:3A:4C|Andre
+00:E0:4C:5C:BC:69|Andre(PC)
+
+
